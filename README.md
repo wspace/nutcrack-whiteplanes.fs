@@ -1,4 +1,5 @@
 # Whiteplanes
+[![Build status](https://ci.appveyor.com/api/projects/status/u3dh55ip140nb3vc?svg=true)](https://ci.appveyor.com/project/nutcrack/whiteplanes-fs)
 
 Whiteplane is a whitespace interpreter writen in F#.
 
