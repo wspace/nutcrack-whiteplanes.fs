@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings name="Local" id="2d02f7f5-0c5d-404d-90d4-a163d8d66541" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Deployment>
+    <DeploymentItem filename="Whiteplanes.Test\Resources\HelloWorld.ws" />
+    <DeploymentItem filename="Whiteplanes.Test\Resources\Count.ws" />
+    <DeploymentItem filename="Whiteplanes.Test\Resources\Input.ws" />
+    <DeploymentItem filename="Whiteplanes.Test\Resources\HeapControl.ws" />
+    <DeploymentItem filename="Whiteplanes.Test\Resources\FlowControl.ws" />
+  </Deployment>
+  <Execution>
+    <TestTypeSpecific>
+      <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+        <AssemblyResolution>
+          <TestDirectory useLoadContext="true" />
+        </AssemblyResolution>
+      </UnitTestRunConfig>
+    </TestTypeSpecific>
+    <AgentRule name="Execution Agents">
+    </AgentRule>
+  </Execution>
+  <Properties />
+</TestSettings>

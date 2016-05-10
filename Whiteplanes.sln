@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Whiteplanes", "Whiteplanes\Whiteplanes.fsproj", "{4FC21435-D8BA-4CDA-B0F4-C30DBCB60812}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Whiteplanes.Test", "Whiteplanes.Test\Whiteplanes.Test.fsproj", "{591C08C6-CA52-483C-81F7-F405BF2A5793}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4CEB91FF-6FB1-4588-84C2-A70457FE674A}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC21435-D8BA-4CDA-B0F4-C30DBCB60812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC21435-D8BA-4CDA-B0F4-C30DBCB60812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC21435-D8BA-4CDA-B0F4-C30DBCB60812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC21435-D8BA-4CDA-B0F4-C30DBCB60812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591C08C6-CA52-483C-81F7-F405BF2A5793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591C08C6-CA52-483C-81F7-F405BF2A5793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591C08C6-CA52-483C-81F7-F405BF2A5793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591C08C6-CA52-483C-81F7-F405BF2A5793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
